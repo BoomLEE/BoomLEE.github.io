@@ -3,18 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://daebum.com/about/</loc>
-    <lastmod>2019-07-26T18:36:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/</loc>
-    <lastmod>2019-07-26T18:36:45+09:00</lastmod>
+    <loc>https://daebum.com/blog/</loc>
+    <lastmod>2019-07-26T18:20:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daebum.com/blog/</loc>
+    <loc>https://daebum.com/</loc>
     <lastmod>2019-07-26T18:20:00+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -46,6 +41,11 @@
   <url>
     <loc>https://daebum.com/blog/my-first-post/</loc>
     <lastmod>2019-07-26T18:20:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/about/</loc>
+    <lastmod>2019-06-29T18:36:45+09:00</lastmod>
   </url>
   
 </urlset>

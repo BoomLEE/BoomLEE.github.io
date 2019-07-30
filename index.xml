@@ -6,19 +6,10 @@
     <description>Recent content on BumNote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jul 2019 18:36:45 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 18:20:00 +0900</lastBuildDate>
     
 	<atom:link href="https://daebum.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://daebum.com/about/</link>
-      <pubDate>Fri, 26 Jul 2019 18:36:45 +0900</pubDate>
-      
-      <guid>https://daebum.com/about/</guid>
-      <description>The opinions stated here are my own, not necessarily those of my company. All feedback is welcome.</description>
-    </item>
     
     <item>
       <title>test</title>
@@ -26,7 +17,27 @@
       <pubDate>Fri, 26 Jul 2019 18:20:00 +0900</pubDate>
       
       <guid>https://daebum.com/blog/my-first-post/</guid>
-      <description>test</description>
+      <description>##Hybrid cloud vs Multi cloud Hybrid cloud :Cloud + on-premises
+ Multi cloud Cloud + Cloud + Cloud  ##Cloud Native (特定のCloudサービスにLock-inしない) - Container - Orchestration Tool
+##Cloud Native Computing - docker - kubernetes - microservices
+##Cloud Native Foundation - https://www.cncf.io/about/members</description>
+    </item>
+    
+    <item>
+      <title>Hello :)</title>
+      <link>https://daebum.com/about/</link>
+      <pubDate>Sat, 29 Jun 2019 18:36:45 +0900</pubDate>
+      
+      <guid>https://daebum.com/about/</guid>
+      <description>About This Space 이 공간에서 다루는 내용은 소속된 회사와는 관계없는 개인의 의견입니다.
+피드백은 언제나 환영합니다 :)
+The opinions stated here are my own, not necessarily those of my company.
+All feedback is welcome :)
+About Me 일본에 살고 있고 IT직종에 종사하고 있습니다.
+어려운 것을 쉽고 재미있게 풀어내는 것에 흥미와 열정을 가지고 있습니다.
+I live in Japan and I work in tech company.
+Make hard things easy and fun.
+Domain experience Travel and Transportation</description>
     </item>
     
   </channel>
