@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="DAEBUM LEE">
+    <meta name="description" content="DAEBUM&#39;s personal webpage">
+    <meta name="keywords" content="blog,developer,personal,papa">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Markdown CheatSheet"/>
+<meta name="twitter:description" content="Markdown CheatSheet"/>
+
+    <meta property="og:title" content="Markdown CheatSheet" />
+<meta property="og:description" content="Markdown CheatSheet" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://daebum.com/blog/markdown-cheatsheet/" />
+<meta property="article:published_time" content="2019-07-01T18:20:00&#43;09:00"/>
+<meta property="article:modified_time" content="2019-07-01T18:20:00&#43;09:00"/>
+
+
+    
+      <base href="https://daebum.com/blog/markdown-cheatsheet/">
+    
+    <title>
+  Markdown CheatSheet · Bum&#39;s note
+</title>
+
+    
+      <link rel="canonical" href="https://daebum.com/blog/markdown-cheatsheet/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="https://daebum.com/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+      <link rel="stylesheet" href="https://daebum.com/css/custom.css" />
+    
+
+    
+    
+    <link rel="icon" type="image/png" href="https://daebum.com/images/daevicon.ico" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://daebum.com/images/daevicon.ico" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.55.6" />
+  </head>
+
+  <body class=" ">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://daebum.com">
+      Bum&#39;s note
+    </a>
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://daebum.com/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://daebum.com/blog/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://daebum.com/techmemo/">TechMemo</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://daebum.com/lifememo/">LifeMemo</a>
+          </li>
+        
+      
+      
+    </ul>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>Markdown CheatSheet</h1>
+    </header>
+
+    
+
+<blockquote>
+<p>모바일과 웹에서의 페이지 표시 확인을 위해 작성.</p>
+</blockquote>
+
+<h1 id="block-elements">Block Elements</h1>
+
+<h2 id="headers-헤더">Headers 헤더</h2>
+
+<p>헤더 앞에 <code>#</code> 붙이는 것만으로 오케이.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"># 헤더1
+## 헤더2
+### 헤더3
+#### 헤더4
+##### 헤더5
+###### 헤더6</pre></div>
+<h1 id="헤더1">헤더1</h1>
+
+<h2 id="헤더2">헤더2</h2>
+
+<h3 id="헤더3">헤더3</h3>
+
+<h4 id="헤더4">헤더4</h4>
+
+<h5 id="헤더5">헤더5</h5>
+
+<h6 id="헤더6">헤더6</h6>
+
+<h2 id="block-단락나누기">Block 단락나누기</h2>
+
+<p>단락 사이에 빈공간 두기</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">단락1
+(빈공간)
+단락2</pre></div>
+<p>단락1</p>
+
+<p>단락2</p>
+
+<h2 id="br-개행">Br 개행</h2>
+
+<p>개행전에 스페이스 두개로 오케이.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">hoge
+fuga(스페이스 두개)
+piyo</pre></div>
+<p>hoge
+fuga<br />
+piyo</p>
+
+<h2 id="blockquotes-인용">Blockquotes 인용</h2>
+
+<p>인용할 문구앞에 <code>&gt;</code>를 붙이기.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&gt; 인용  
+&gt; 인용
+&gt;&gt; 다중인용</pre></div>
+<blockquote>
+<p>인용<br />
+인용
+&gt; 다중인용</p>
+</blockquote>
+
+<h2 id="code-코드">Code 코드</h2>
+
+<p><code>`back quote`</code> 셋, 또는 물결표시<code>~</code>셋.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">print &#39;hoge&#39;</pre></div><div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">print &#39;hoge&#39;</pre></div>
+<h3 id="인라인코드">인라인코드</h3>
+
+<p><code>`back quote`</code> 로 단어를 감쌈.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">This is `Inline Code`.</pre></div>
+<p>This is <code>Inline Code</code>.</p>
+
+<h2 id="pre">pre</h2>
+
+<p>스페이스 넷 또는 탭.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">    class Hoge
+        def hoge
+            print &#39;hoge&#39;
+        end
+    end</pre></div><div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">class Hoge
+    def hoge
+        print &#39;hoge&#39;
+    end
+end</pre></div>
+<h2 id="hr-수평선">Hr 수평선</h2>
+
+<p><code>_</code> 또는 <code>*</code> 등을 연속으로 셋 붙이기.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">hoge
+***
+hoge
+___</pre></div>
+<p>hoge</p>
+
+<hr />
+
+<p>hoge</p>
+
+<hr />
+
+<h1 id="lists">Lists</h1>
+
+<h2 id="ul">Ul</h2>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">- 리스트1
+    - 리스트1_1
+        - 리스트1_1_1
+        - 리스트1_1_2
+    - 리스트1_2
+- 리스트2
+- 리스트3</pre></div>
+<ul>
+<li>리스트1
+
+<ul>
+<li>리스트1_1
+
+<ul>
+<li>리스트1_1_1</li>
+<li>리스트1_1_2</li>
+</ul></li>
+<li>리스트1_2</li>
+</ul></li>
+<li>리스트2</li>
+<li>리스트3</li>
+</ul>
+
+<h2 id="ol">Ol</h2>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">1. 번호+리스트1
+    1. 번호+리스트1-1
+    1. 번호+리스트1-2
+1. 번호+리스트2
+1. 번호+리스트3</pre></div>
+<ol>
+<li>번호+리스트1
+
+<ol>
+<li>번호+리스트1-1</li>
+<li>번호+리스트1-2</li>
+</ol></li>
+<li>번호+리스트2</li>
+<li>번호+리스트3</li>
+</ol>
+
+<h1 id="span-elements">Span Elements</h1>
+
+<h2 id="link-링크">Link 링크</h2>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">[Google](https://www.google.co.jp/)</pre></div>
+<p><a href="https://www.google.co.jp/">Google</a></p>
+
+<h3 id="외부-참조-링크">외부 참조 링크</h3>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">[Google]: https://www.google.com/
+[Google로 이동][Google]</pre></div>
+<p><a href="https://www.google.com/">Google로 이동</a></p>
+
+<h2 id="강조">강조</h2>
+
+<h3 id="em">em</h3>
+
+<p><code>*</code>또는<code>_</code>1개로 문자열을 감쌈.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">This is *italic*.
+This is _italic_.</pre></div>
+<p>This is <em>italic</em>.
+This is <em>italic</em>.</p>
+
+<h3 id="strong">strong</h3>
+
+<p><code>*</code>또는<code>_</code>2개로 문자열을 감쌈.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">This is **Bold**.
+This is __Bold__.</pre></div>
+<p>This is <strong>Bold</strong>.
+This is <strong>Bold</strong>.</p>
+
+<h3 id="em-strong">em + strong</h3>
+
+<p><code>*</code>또는<code>_</code>3개로 문자열을 감쌈.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">This is ***italic&amp;bBold***.
+This is ___italic&amp;bBold___.</pre></div>
+<p>This is <strong><em>italic&amp;bBold</em></strong>.
+This is <strong><em>italic&amp;bBold</em></strong>.</p>
+
+<h2 id="문자열-삭제">문자열 삭제</h2>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">~~삭제문자열~~</pre></div>
+<p><del>삭제문자열</del></p>
+
+<h2 id="images">Images</h2>
+
+<p>이미지의 크기등을 지정할 때에는 img tag를 이용.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">![alt](그림URL)
+![대체문자열](URL &#34;타이틀&#34;)
+
+&lt;img src=&#34;attach:cat.jpg&#34; alt=&#34;attach:cat&#34; title=&#34;attach:cat&#34; width=&#34;200&#34; height=&#34;200&#34;&gt;</pre></div>
+<h1 id="table">Table</h1>
+
+<p><code>-</code>와<code>|</code>를 이용해서 테이블 작성.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">| TH1 | TH2 |
+----|---- 
+| TD1 | TD3 |
+| TD2 | TD4 |</pre></div>
+<table>
+<thead>
+<tr>
+<th>TH1</th>
+<th>TH2</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>TD1</td>
+<td>TD3</td>
+</tr>
+
+<tr>
+<td>TD2</td>
+<td>TD4</td>
+</tr>
+</tbody>
+</table>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">| 왼쪽정렬 | 중앙정렬 | 오른쪽정렬 |
+|:---|:---:|---:|
+|1 |2 |3 |
+|4 |5 |6 |</pre></div>
+<table>
+<thead>
+<tr>
+<th align="left">왼쪽정렬</th>
+<th align="center">중앙정렬</th>
+<th align="right">오른쪽정렬</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left">1</td>
+<td align="center">2</td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td align="left">4</td>
+<td align="center">5</td>
+<td align="right">6</td>
+</tr>
+</tbody>
+</table>
+
+  </article>
+</section>
+
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+      <p>Copyright © 2019, Daebum Lee - Learn, Share and Connect.</p>
+    
+    
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144871773-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+  </body>
+
+</html>

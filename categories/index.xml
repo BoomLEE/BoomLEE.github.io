@@ -6,19 +6,9 @@
     <description>Recent content in Categories on Bum&#39;s note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jul 2019 18:20:00 +0900</lastBuildDate>
     
 	<atom:link href="https://daebum.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>test</title>
-      <link>https://daebum.com/categories/test/</link>
-      <pubDate>Fri, 26 Jul 2019 18:20:00 +0900</pubDate>
-      
-      <guid>https://daebum.com/categories/test/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

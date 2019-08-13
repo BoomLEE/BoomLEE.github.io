@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techmemos on Bum&#39;s note</title>
+    <link>https://daebum.com/techmemo/</link>
+    <description>Recent content in Techmemos on Bum&#39;s note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jul 2019 15:15:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://daebum.com/techmemo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>프로젝트에서의 커뮤니케이션</title>
+      <link>https://daebum.com/techmemo/project-communication/</link>
+      <pubDate>Fri, 05 Jul 2019 15:15:57 +0900</pubDate>
+      
+      <guid>https://daebum.com/techmemo/project-communication/</guid>
+      <description>프로젝트 진행에서는 크게 두 가지가 중요  프로덕트 생산활동 (설계/개발/테스트/환경구축) 커뮤니케이션  프로젝트에서의 프로덕트 만들기의 중요성  프로젝트 자체를 진행하기 위한 중요한 요소.  프로젝트에서의 커뮤니케이션의 중요성  의사결정/합의 프로젝트 방향성  테모도리를 줄인다. 프로젝트 전체의 리스크를 줄인다. (잘못된 방향으로 가지 않게)   커뮤니케이션의 종류와 역활 Real time(MTG)
+ Daily Weekly Monthly Ad-hoc   Non-Real time
+ E-mail
+ Slack
+  미팅 베스트 프랙스티스  미팅을 하는 목적/골이 참가자 전원 공유되어 있음.</description>
+    </item>
+    
+  </channel>
+</rss>

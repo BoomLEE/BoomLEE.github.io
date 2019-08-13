@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifememos on Bum&#39;s note</title>
+    <link>https://daebum.com/lifememo/</link>
+    <description>Recent content in Lifememos on Bum&#39;s note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Jul 2019 13:32:30 +0900</lastBuildDate>
+    
+	<atom:link href="https://daebum.com/lifememo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>일본에서 호카츠(保活)입문</title>
+      <link>https://daebum.com/lifememo/japan-papa-hokatsu-introduction/</link>
+      <pubDate>Mon, 22 Jul 2019 13:32:30 +0900</pubDate>
+      
+      <guid>https://daebum.com/lifememo/japan-papa-hokatsu-introduction/</guid>
+      <description>호카츠?  아이를 인가(認可) 보육원에 입원(入園)시키기 위한 활동; 특히, 대기 아동이 되지 않도록 육아 휴직 기간을 조정하거나 이사하는 등의 적극적인 활동을 하는 것.
+ 인용 : https://ja.dict.naver.com/entry/jk/JK000000248538.nhn
+江東区情報
+https://www.city.koto.lg.jp/280308/kodomo/hoiku/ninka/101188.html</description>
+    </item>
+    
+  </channel>
+</rss>

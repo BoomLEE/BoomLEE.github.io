@@ -6,48 +6,68 @@
     <description>Recent content on Bum&#39;s note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jul 2019 18:20:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 13:32:30 +0900</lastBuildDate>
     
 	<atom:link href="https://daebum.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>test</title>
-      <link>https://daebum.com/blog/my-first-post/</link>
-      <pubDate>Fri, 26 Jul 2019 18:20:00 +0900</pubDate>
+      <title>일본에서 호카츠(保活)입문</title>
+      <link>https://daebum.com/lifememo/japan-papa-hokatsu-introduction/</link>
+      <pubDate>Mon, 22 Jul 2019 13:32:30 +0900</pubDate>
       
-      <guid>https://daebum.com/blog/my-first-post/</guid>
-      <description>##Hybrid cloud vs Multi cloud
-Hybrid cloud
-:Cloud + on-premises
- Multi cloud
- Cloud + Cloud + Cloud
-  ##Cloud Native (特定のCloudサービスにLock-inしない)
-- Container
-- Orchestration Tool
-##Cloud Native Computing
-- docker
-- kubernetes
-- microservices
-##Cloud Native Foundation
-- https://www.cncf.io/about/members</description>
+      <guid>https://daebum.com/lifememo/japan-papa-hokatsu-introduction/</guid>
+      <description>호카츠?  아이를 인가(認可) 보육원에 입원(入園)시키기 위한 활동; 특히, 대기 아동이 되지 않도록 육아 휴직 기간을 조정하거나 이사하는 등의 적극적인 활동을 하는 것.
+ 인용 : https://ja.dict.naver.com/entry/jk/JK000000248538.nhn
+江東区情報
+https://www.city.koto.lg.jp/280308/kodomo/hoiku/ninka/101188.html</description>
+    </item>
+    
+    <item>
+      <title>프로젝트에서의 커뮤니케이션</title>
+      <link>https://daebum.com/techmemo/project-communication/</link>
+      <pubDate>Fri, 05 Jul 2019 15:15:57 +0900</pubDate>
+      
+      <guid>https://daebum.com/techmemo/project-communication/</guid>
+      <description>프로젝트 진행에서는 크게 두 가지가 중요  프로덕트 생산활동 (설계/개발/테스트/환경구축) 커뮤니케이션  프로젝트에서의 프로덕트 만들기의 중요성  프로젝트 자체를 진행하기 위한 중요한 요소.  프로젝트에서의 커뮤니케이션의 중요성  의사결정/합의 프로젝트 방향성  테모도리를 줄인다. 프로젝트 전체의 리스크를 줄인다. (잘못된 방향으로 가지 않게)   커뮤니케이션의 종류와 역활 Real time(MTG)
+ Daily Weekly Monthly Ad-hoc   Non-Real time
+ E-mail
+ Slack
+  미팅 베스트 프랙스티스  미팅을 하는 목적/골이 참가자 전원 공유되어 있음.</description>
+    </item>
+    
+    <item>
+      <title>Markdown CheatSheet</title>
+      <link>https://daebum.com/blog/markdown-cheatsheet/</link>
+      <pubDate>Mon, 01 Jul 2019 18:20:00 +0900</pubDate>
+      
+      <guid>https://daebum.com/blog/markdown-cheatsheet/</guid>
+      <description>모바일과 웹에서의 페이지 표시 확인을 위해 작성.
+ Block Elements Headers 헤더 헤더 앞에 # 붙이는 것만으로 오케이.
+# 헤더1 ## 헤더2 ### 헤더3 #### 헤더4 ##### 헤더5 ###### 헤더6 헤더1 헤더2 헤더3 헤더4 헤더5 헤더6 Block 단락나누기 단락 사이에 빈공간 두기
+단락1 (빈공간) 단락2 단락1
+단락2
+Br 개행 개행전에 스페이스 두개로 오케이.
+hoge fuga(스페이스 두개) piyo hoge fuga
+piyo
+Blockquotes 인용 인용할 문구앞에 &amp;gt;를 붙이기.
+&amp;gt; 인용 &amp;gt; 인용 &amp;gt;&amp;gt; 다중인용  인용</description>
     </item>
     
     <item>
       <title>Hello :)</title>
       <link>https://daebum.com/about/</link>
-      <pubDate>Sat, 29 Jun 2019 18:36:45 +0900</pubDate>
+      <pubDate>Wed, 29 May 2019 18:36:45 +0900</pubDate>
       
       <guid>https://daebum.com/about/</guid>
       <description>About This Space 이 공간에서 다루는 내용은 소속된 회사와는 관계없는 개인의 의견입니다.
 피드백은 언제나 환영합니다 :)
+Tech Memo : 기술 관련 가벼운 메모를 남기는 곳입니다.
+Life Memo : 생활 관련 가벼운 메모를 남기는 곳입니다.
+Blog : 머릿속에 있는 내용이나 참고했던 내용을 정리하는 곳입니다.
 The opinions stated here are my own, not necessarily those of my company.
 All feedback is welcome :)
-About Me 일본에 살고 있고 IT직종에 종사하고 있습니다.
-어려운 것을 쉽고 재미있게 풀어내는 것에 흥미와 열정을 가지고 있습니다.
-I live in Japan and I work in tech company.
-Make hard things easy and fun.
-Domain experience Travel and Transportation</description>
+About Me 일본에 살고 있고 IT직종에 종사하고 있습니다.</description>
     </item>
     
   </channel>
