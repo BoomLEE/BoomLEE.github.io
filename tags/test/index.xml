@@ -6,31 +6,31 @@
     <description>Recent content in test on Bum&#39;s note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jul 2019 18:20:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 15:32:28 +0900</lastBuildDate>
     
 	<atom:link href="https://daebum.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>test</title>
-      <link>https://daebum.com/blog/my-first-post/</link>
-      <pubDate>Fri, 26 Jul 2019 18:20:00 +0900</pubDate>
+      <title>Writing Good Test Cases</title>
+      <link>https://daebum.com/techmemo/writing-good-test-cases/</link>
+      <pubDate>Fri, 16 Aug 2019 15:32:28 +0900</pubDate>
       
-      <guid>https://daebum.com/blog/my-first-post/</guid>
-      <description>##Hybrid cloud vs Multi cloud
-Hybrid cloud
-:Cloud + on-premises
- Multi cloud
- Cloud + Cloud + Cloud
-  ##Cloud Native (特定のCloudサービスにLock-inしない)
-- Container
-- Orchestration Tool
-##Cloud Native Computing
-- docker
-- kubernetes
-- microservices
-##Cloud Native Foundation
-- https://www.cncf.io/about/members</description>
+      <guid>https://daebum.com/techmemo/writing-good-test-cases/</guid>
+      <description>As far as possible, write test cases in such a way that you test only one thing at a time. Do not overlap or complicate test cases. Attempt to make your test cases ‘atomic’. Ensure that all positive scenarios AND negative scenarios are covered. Language:  Write in simple and easy-to-understand language. Use active voice instead of passive voice: Do this, do that. Use exact and consistent names (of forms, fields, etc).</description>
+    </item>
+    
+    <item>
+      <title>Why Test Cases Is Important</title>
+      <link>https://daebum.com/techmemo/why-test-cases-is-important/</link>
+      <pubDate>Fri, 16 Aug 2019 10:34:44 +0900</pubDate>
+      
+      <guid>https://daebum.com/techmemo/why-test-cases-is-important/</guid>
+      <description>なんでテストケース作成するの :作成する目的は大きく分けますと下記の二つです。
+・テスト漏れの防止
+・テストの透明化
+テスト漏れの防止 ・サービスはユーザーによって想像を超える様々な使い方や入力の仕方が想定されます。 ・テスト担当個人の判断でテスト内容を決めてしまうと、テスト項目のもれが発生し、重大なバグ発生の要因となります。
+テストの透明化 ・リリース後にバグが見つかった場合、開発工程でどのようなテストを行ったかが把握できなければ、また一から考えられるテストを繰り返し実施するという無駄な工程が発生することになります。効率的なテストを行うためには、第三者が見てもわかる透明化された状態でテストケースを残しておく必要があります。</description>
     </item>
     
   </channel>

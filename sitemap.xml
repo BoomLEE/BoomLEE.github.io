@@ -4,25 +4,64 @@
   
   <url>
     <loc>https://daebum.com/</loc>
-    <lastmod>2019-07-22T13:32:30+09:00</lastmod>
+    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daebum.com/lifememo/</loc>
-    <lastmod>2019-07-22T13:32:30+09:00</lastmod>
+    <loc>https://daebum.com/categories/</loc>
+    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/tags/</loc>
+    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/techmemo/</loc>
+    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/techmemo/writing-good-test-cases/</loc>
+    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/categories/test/</loc>
+    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/tags/test/</loc>
+    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/techmemo/why-test-cases-is-important/</loc>
+    <lastmod>2019-08-16T10:34:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/lifememo/</loc>
+    <lastmod>2019-08-08T18:18:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/lifememo/ready-childbirth-for-papa/</loc>
+    <lastmod>2019-08-08T18:18:17+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://daebum.com/lifememo/japan-papa-hokatsu-introduction/</loc>
     <lastmod>2019-07-22T13:32:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/techmemo/</loc>
-    <lastmod>2019-07-05T15:15:57+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -42,12 +81,6 @@
   </url>
   
   <url>
-    <loc>https://daebum.com/tags/</loc>
-    <lastmod>2019-07-01T18:20:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://daebum.com/tags/markdown/</loc>
     <lastmod>2019-07-01T18:20:00+09:00</lastmod>
     <priority>0</priority>
@@ -56,11 +89,6 @@
   <url>
     <loc>https://daebum.com/about/</loc>
     <lastmod>2019-05-29T18:36:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

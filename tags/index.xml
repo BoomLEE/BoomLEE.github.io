@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Bum&#39;s note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jul 2019 18:20:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 15:32:28 +0900</lastBuildDate>
     
 	<atom:link href="https://daebum.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>https://daebum.com/tags/test/</link>
+      <pubDate>Fri, 16 Aug 2019 15:32:28 +0900</pubDate>
+      
+      <guid>https://daebum.com/tags/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>markdown</title>
