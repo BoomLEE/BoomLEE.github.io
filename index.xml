@@ -6,82 +6,17 @@
     <description>Recent content on Bum&#39;s note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Dec 2019 14:29:37 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2019 09:37:16 +0900</lastBuildDate>
     
 	<atom:link href="https://daebum.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Baby Note for Papa</title>
-      <link>https://daebum.com/lifememo/baby-note-for-papa/</link>
-      <pubDate>Thu, 05 Dec 2019 14:29:37 +0900</pubDate>
-      
-      <guid>https://daebum.com/lifememo/baby-note-for-papa/</guid>
-      <description>신생아 시기(출생 후 첫 4주까지)  출생시에는 양수에서 헤엄을 치며 놀았기 때문에 태어났을 때 손, 발, 얼굴이 쭈글쭈글함. 신체발달  물론 태어난지 얼마 되지 않았기 때문에 힘이 매우 약하고, 머리도 가누지 못함(** 신생아 안는 법 참조).
- 이 시기에는 다른 감각에 비해서 후각이 발달되어 있다. (엄마 냄새를 구분할 수 도 있다고 한다.) 앞을 거의 보지 못하거나, 보더라도 흑백으로 보인다고 한다. 첫주에 약 10% 정도 몸무게가 감소한다. (자궁내에서 흡수한 채액을 배출) 2주 정도 지나면 원래의 몸무게를 되찾는다고 한다.</description>
-    </item>
-    
-    <item>
-      <title>대표적인 클라우드 서비스 프로바이더별 솔루션 모음</title>
-      <link>https://daebum.com/techmemo/cloud-provider-service-solutions/</link>
-      <pubDate>Sat, 21 Sep 2019 11:25:32 +0900</pubDate>
-      
-      <guid>https://daebum.com/techmemo/cloud-provider-service-solutions/</guid>
-      <description>대표적인 클라우드 서비스 프로바이더별 솔루션 모음
-| Cloud provider | Description | |:&amp;mdash;|:&amp;mdash;| | Azure Architecture Center | The Azure Architecture Center is the official center for guidance, blueprints, patterns, and best practices for building solutions with Microsoft Azure. It is curated by the Microsoft patterns &amp;amp;amp practices team. | | Architecture Resources | AWS | Explore a collection of technical resources to help you build more effectively and efficiently in the AWS Cloud, including reference implementations, best practice guides, whitepapers, and architecture diagrams.</description>
-    </item>
-    
-    <item>
-      <title>Writing Good Test Cases</title>
-      <link>https://daebum.com/techmemo/writing-good-test-cases/</link>
-      <pubDate>Fri, 16 Aug 2019 15:32:28 +0900</pubDate>
-      
-      <guid>https://daebum.com/techmemo/writing-good-test-cases/</guid>
-      <description>As far as possible, write test cases in such a way that you test only one thing at a time. Do not overlap or complicate test cases. Attempt to make your test cases ‘atomic’. Ensure that all positive scenarios AND negative scenarios are covered. Language:  Write in simple and easy-to-understand language. Use active voice instead of passive voice: Do this, do that. Use exact and consistent names (of forms, fields, etc).</description>
-    </item>
-    
-    <item>
-      <title>Why Test Cases Is Important</title>
-      <link>https://daebum.com/techmemo/why-test-cases-is-important/</link>
-      <pubDate>Fri, 16 Aug 2019 10:34:44 +0900</pubDate>
-      
-      <guid>https://daebum.com/techmemo/why-test-cases-is-important/</guid>
-      <description>なんでテストケース作成するの :作成する目的は大きく分けますと下記の二つです。
-・テスト漏れの防止
-・テストの透明化
-テスト漏れの防止 ・サービスはユーザーによって想像を超える様々な使い方や入力の仕方が想定されます。 ・テスト担当個人の判断でテスト内容を決めてしまうと、テスト項目のもれが発生し、重大なバグ発生の要因となります。
-テストの透明化 ・リリース後にバグが見つかった場合、開発工程でどのようなテストを行ったかが把握できなければ、また一から考えられるテストを繰り返し実施するという無駄な工程が発生することになります。効率的なテストを行うためには、第三者が見てもわかる透明化された状態でテストケースを残しておく必要があります。</description>
-    </item>
-    
-    <item>
-      <title>아빠의 출산준비</title>
-      <link>https://daebum.com/lifememo/ready-childbirth-for-papa/</link>
-      <pubDate>Thu, 08 Aug 2019 18:18:17 +0900</pubDate>
-      
-      <guid>https://daebum.com/lifememo/ready-childbirth-for-papa/</guid>
-      <description>아빠의 출산준비 :땡콩과의 만남 3개월전
- 아기옷
- 배냇저고리  순면으로 만들어져 피부를 보호 상표는 옷 바깥쪽 위 아래 4벌. 계절 고려  우주복  보온효과 좋은 녀석으로  내의  상하의 나누어진 내의로 (기저귀 갈기가 편리함)   젖병/젖꼭지  우선 젖병과 젖꼭지는 소모품임. 어느 정도 변색, 상태가 좋지 않을 때는 교체할 것 대략 젖병은 6개월에 한번 교체 젖꼭지는 2개월에 한번 교체 젖병과 젖꼭지는 매일 삶아 소독 하고 말리기 -&amp;gt;&amp;gt; 요건 아이템 구입 : 시밀레 젖병 소독기?</description>
-    </item>
-    
-    <item>
-      <title>일본에서 호카츠(保活)입문</title>
-      <link>https://daebum.com/lifememo/japan-papa-hokatsu-introduction/</link>
-      <pubDate>Mon, 22 Jul 2019 13:32:30 +0900</pubDate>
-      
-      <guid>https://daebum.com/lifememo/japan-papa-hokatsu-introduction/</guid>
-      <description>호카츠?  아이를 인가(認可) 보육원에 입원(入園)시키기 위한 활동; 특히, 대기 아동이 되지 않도록 육아 휴직 기간을 조정하거나 이사하는 등의 적극적인 활동을 하는 것.
- 인용 : https://ja.dict.naver.com/entry/jk/JK000000248538.nhn
-江東区情報
-https://www.city.koto.lg.jp/280308/kodomo/hoiku/ninka/101188.html</description>
-    </item>
-    
-    <item>
       <title>[WIP]2019 Seminar/Webinar/E-Learning Log</title>
-      <link>https://daebum.com/lifememo/2019-seminar-webinar-e-learning-log/</link>
+      <link>https://daebum.com/blog/2019-seminar-webinar-e-learning-log/</link>
       <pubDate>Sat, 06 Jul 2019 09:37:16 +0900</pubDate>
       
-      <guid>https://daebum.com/lifememo/2019-seminar-webinar-e-learning-log/</guid>
+      <guid>https://daebum.com/blog/2019-seminar-webinar-e-learning-log/</guid>
       <description>1月
 ・[Badge] Getting Started with Containers on IBM Cloud
 ・[Badge] Docker Essentials: A Developer Introduction
@@ -91,19 +26,6 @@ https://www.city.koto.lg.jp/280308/kodomo/hoiku/ninka/101188.html</description>
 ・[Webinar] Architect Professional Certification 説明会1/31 2月
 ・[Badge] Beyond the Basics: Istio and IBM Cloud Kubernetes Service
 ・[Badge] Getting started with Microservices with Istio and IBM Cloud Kubernetes Service</description>
-    </item>
-    
-    <item>
-      <title>프로젝트에서의 커뮤니케이션</title>
-      <link>https://daebum.com/techmemo/project-communication/</link>
-      <pubDate>Fri, 05 Jul 2019 15:15:57 +0900</pubDate>
-      
-      <guid>https://daebum.com/techmemo/project-communication/</guid>
-      <description>프로젝트 진행에서는 크게 두 가지가 중요  프로덕트 생산활동 (설계/개발/테스트/환경구축) 커뮤니케이션  프로젝트에서의 프로덕트 만들기의 중요성  프로젝트 자체를 진행하기 위한 중요한 요소.  프로젝트에서의 커뮤니케이션의 중요성  의사결정/합의 프로젝트 방향성  테모도리를 줄인다. 프로젝트 전체의 리스크를 줄인다. (잘못된 방향으로 가지 않게)   커뮤니케이션의 종류와 역활 Real time(MTG)
- Daily Weekly Monthly Ad-hoc   Non-Real time
- E-mail
- Slack
-  미팅 베스트 프랙스티스  미팅을 하는 목적/골이 참가자 전원 공유되어 있음.</description>
     </item>
     
     <item>

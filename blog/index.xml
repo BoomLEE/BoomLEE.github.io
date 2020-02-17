@@ -6,10 +6,27 @@
     <description>Recent content in Blogs on Bum&#39;s note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jul 2019 18:20:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2019 09:37:16 +0900</lastBuildDate>
     
 	<atom:link href="https://daebum.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[WIP]2019 Seminar/Webinar/E-Learning Log</title>
+      <link>https://daebum.com/blog/2019-seminar-webinar-e-learning-log/</link>
+      <pubDate>Sat, 06 Jul 2019 09:37:16 +0900</pubDate>
+      
+      <guid>https://daebum.com/blog/2019-seminar-webinar-e-learning-log/</guid>
+      <description>1月
+・[Badge] Getting Started with Containers on IBM Cloud
+・[Badge] Docker Essentials: A Developer Introduction
+・[Badge] IBM Blockchain Essentials
+・[Webinar] Google Cloud Study Jams :Kubernetes in the Google Cloud 1&amp;frasl;7-1&amp;frasl;25
+・[Webinar] Google Cloud/ Google AI Learning Session - Cloud Competency CenterとAI Competency Center共催の勉強会
+・[Webinar] Architect Professional Certification 説明会1/31 2月
+・[Badge] Beyond the Basics: Istio and IBM Cloud Kubernetes Service
+・[Badge] Getting started with Microservices with Istio and IBM Cloud Kubernetes Service</description>
+    </item>
     
     <item>
       <title>Markdown CheatSheet</title>

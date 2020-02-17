@@ -3,96 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://daebum.com/lifememo/baby-note-for-papa/</loc>
-    <lastmod>2019-12-05T14:29:37+09:00</lastmod>
+    <loc>https://daebum.com/blog/</loc>
+    <lastmod>2019-07-06T09:37:16+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://daebum.com/</loc>
-    <lastmod>2019-12-05T14:29:37+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/lifememo/</loc>
-    <lastmod>2019-12-05T14:29:37+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/techmemo/</loc>
-    <lastmod>2019-09-21T11:25:32+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/techmemo/cloud-provider-service-solutions/</loc>
-    <lastmod>2019-09-21T11:25:32+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/categories/</loc>
-    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/tags/</loc>
-    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/techmemo/writing-good-test-cases/</loc>
-    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/categories/test/</loc>
-    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/tags/test/</loc>
-    <lastmod>2019-08-16T15:32:28+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/techmemo/why-test-cases-is-important/</loc>
-    <lastmod>2019-08-16T10:34:44+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/lifememo/ready-childbirth-for-papa/</loc>
-    <lastmod>2019-08-08T18:18:17+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/lifememo/japan-papa-hokatsu-introduction/</loc>
-    <lastmod>2019-07-22T13:32:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/lifememo/2019-seminar-webinar-e-learning-log/</loc>
     <lastmod>2019-07-06T09:37:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/techmemo/project-communication/</loc>
-    <lastmod>2019-07-05T15:15:57+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daebum.com/blog/</loc>
-    <lastmod>2019-07-01T18:20:00+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/blog/2019-seminar-webinar-e-learning-log/</loc>
+    <lastmod>2019-07-06T09:37:16+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://daebum.com/blog/markdown-cheatsheet/</loc>
     <lastmod>2019-07-01T18:20:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/tags/</loc>
+    <lastmod>2019-07-01T18:20:00+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -104,6 +39,11 @@
   <url>
     <loc>https://daebum.com/about/</loc>
     <lastmod>2019-05-29T18:36:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daebum.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
